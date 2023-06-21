@@ -6,3 +6,4 @@
  source ~/.bashrc
 # 3
  echo $KUBE_EDITOR
+# 4 From now on, when you run kubectl edit <resource>, it will open the resource's configuration in Visual Studio Code instead of Notepad
